@@ -1,0 +1,52 @@
+.w-90{
+  width: 95%;
+}
+.active{
+  font-weight: 700;
+}
+.hidden{
+  border: 1px solid transparent;
+}
+.fs-20{
+  font-size: 250%;
+  margin-top: -5px;
+}
+.bottom{
+  position: fixed;
+  top: 84%;
+  left: 0;
+  right: 0;
+}
+.profile{
+  width: 10%;
+  height: 10%;
+  object-fit: cover;
+  border-radius: 100%;
+}
+.resp{
+  width: 100%;
+  height: 200px;
+  border-top-left-radius: 3.5%;
+  border-top-right-radius: 3.5%;
+  object-fit: cover;
+}
+.prev{
+  width: 50%;
+  height: 190px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.fs-18{
+  font-size: 15px;
+}
+.fs-16{
+  text-align: left;
+  font-size: 14px;
+}
+.prevs{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
